@@ -1,21 +1,21 @@
-Post Date,Description,Category,Reference Number,Amount
-1/20/2019,KEYSTONE GROCERY         KEYSTONE     CO,Service Stations (with or without Ancillary Services),24055230KRBGHSAYA,-45.76
-1/27/2019,RTD ALAMEDA              DENVER       CO,Bus Lines,24270760S2M19X3BH,-6.00
-1/27/2019,TST* SLICEWORKS LODO     DENVER       CO,Food Eating Places  Restaurants,24445000S2XDKTTLB,-4.86
-1/27/2019,SQ *RNCD LLC - DBA       HILLIARD     OH,Books  Periodicals  and Newspapers,24492150SMHQH2LK4,-5.00
-1/27/2019,SUMMIT MUSIC HALL        DENVER       CO,Food Eating Places  Restaurants,24755420S7JQE48R2,-56.00
-1/28/2019,LIQUORLAND LLC           DENVER       CO,Package Stores  Beer  Wine  Liquor,24194330V0FW345Z1,-6.47
-1/28/2019,CAFE ZURI                DENVER       CO,Food Eating Places  Restaurants,24013390V03AYHQSY,-6.00
-1/28/2019,BURGER KING #5218        DENVER       CO,Food Fast Food Restaurants,24186160V2M46DA9W,-14.64
-1/28/2019,MEAD STREET STATION, LLC DENVER       CO,Food Eating Places  Restaurants,24428060VEJD0WWRS,-21.00
-1/29/2019,FIRE ON THE MOUNTAIN     DENVER       CO,Food Eating Places  Restaurants,24695880WS66G1J7F,-19.50
-1/30/2019,NEW METROPOLITAN DEVELOPMDENVER       CO,Automobile Parking Lots and Garages,24013390X03K7X7Z6,-3.00
-2/5/2019,CONOCO - SEI 23899       DENVER       CO,Automated Fuel Dispenser,24015171300F4991Q,-27.77
-2/10/2019,AAA COLORADO             DENVER       CO,Automobile Associations,2443565185SEQXW13,-89.00
-2/10/2019,CC PAYMENT               HUNTSVILLE   AL,,,216.00
-2/12/2019,HI PERFORMANCE CAR WASH IDENVER       CO,Car Washes,24789301AV7E1Q2XB,-6.17
-2/13/2019,CC PAYMENT               HUNTSVILLE   AL,,,95.17
-,TOTAL FEES FOR THIS PERIOD,,,0.00
-2/16/2019,Interest Charge on Purchases,,,0.00
-2/16/2019,Interest Charge on Cash Advances,,,0.00
-,TOTAL INTEREST FOR THIS PERIOD,,,0.00
+Post Date,Description,Category,Amount
+1/20/2019,KEYSTONE GROCERY         KEYSTONE     CO,Service Stations (with or without Ancillary Services),-45.76
+1/27/2019,RTD ALAMEDA              DENVER       CO,Bus Lines,-6.00
+1/27/2019,TST* SLICEWORKS LODO     DENVER       CO,Food Eating Places  Restaurants,-4.86
+1/27/2019,SQ *RNCD LLC - DBA       HILLIARD     OH,Books  Periodicals  and Newspapers,-5.00
+1/27/2019,SUMMIT MUSIC HALL        DENVER       CO,Food Eating Places  Restaurants,-56.00
+1/28/2019,LIQUORLAND LLC           DENVER       CO,Package Stores  Beer  Wine  Liquor,-6.47
+1/28/2019,CAFE ZURI                DENVER       CO,Food Eating Places  Restaurants,-6.00
+1/28/2019,BURGER KING #5218        DENVER       CO,Food Fast Food Restaurants,-14.64
+1/28/2019,MEAD STREET STATION  LLC DENVER       CO,Food Eating Places  Restaurants,-21.00
+1/29/2019,FIRE ON THE MOUNTAIN     DENVER       CO,Food Eating Places  Restaurants,-19.50
+1/30/2019,NEW METROPOLITAN DEVELOPMDENVER       CO,Automobile Parking Lots and Garages,-3.00
+2/5/2019,CONOCO - SEI 23899       DENVER       CO,Automated Fuel Dispenser,-27.77
+2/10/2019,AAA COLORADO             DENVER       CO,Automobile Associations,-89.00
+2/10/2019,CC PAYMENT               HUNTSVILLE   AL,,216.00
+2/12/2019,HI PERFORMANCE CAR WASH IDENVER       CO,Car Washes,-6.17
+2/13/2019,CC PAYMENT               HUNTSVILLE   AL,,95.17
+,TOTAL FEES FOR THIS PERIOD,,0.00
+2/16/2019,Interest Charge on Purchases,,0.00
+2/16/2019,Interest Charge on Cash Advances,,0.00
+,TOTAL INTEREST FOR THIS PERIOD,,0.00
